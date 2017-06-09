@@ -1,0 +1,5 @@
+D:\Projects\Calendar\bin\Debug\Calendar.dll
+D:\Projects\Calendar\bin\Debug\Calendar.pdb
+D:\Projects\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+D:\Projects\Calendar\obj\Debug\Calendar.dll
+D:\Projects\Calendar\obj\Debug\Calendar.pdb

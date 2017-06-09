@@ -1,0 +1,6 @@
+D:\Projects\TestCalendarFunction\bin\Release\TestCalendarFunction.exe.config
+D:\Projects\TestCalendarFunction\bin\Release\TestCalendarFunction.exe
+D:\Projects\TestCalendarFunction\bin\Release\TestCalendarFunction.pdb
+D:\Projects\TestCalendarFunction\obj\Release\TestCalendarFunction.csprojResolveAssemblyReference.cache
+D:\Projects\TestCalendarFunction\obj\Release\TestCalendarFunction.exe
+D:\Projects\TestCalendarFunction\obj\Release\TestCalendarFunction.pdb

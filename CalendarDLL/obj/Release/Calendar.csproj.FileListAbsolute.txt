@@ -1,0 +1,4 @@
+D:\Projects\Calendar\bin\Release\Calendar.dll
+D:\Projects\Calendar\bin\Release\Calendar.pdb
+D:\Projects\Calendar\obj\Release\Calendar.dll
+D:\Projects\Calendar\obj\Release\Calendar.pdb
