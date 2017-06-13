@@ -294,7 +294,7 @@ namespace Calendar
 
 
         /// <summary>\
-        ///  Array of objects with the fields "start date" and "end date".
+        ///  Array of objects(DateTime) with the fields "start date" and "end date".
         ///  If "start date" is the same with the "end date", it means the weekend happens only on that day.
         ///  If "start date" isn't same with the "end date", it means that the whole period is a weekend.
         /// </summary>
@@ -303,12 +303,12 @@ namespace Calendar
         /// <returns></returns>
         public static List<DateTime> Weekends(DateTime start, DateTime end)
         {
+            if (end < start)
+                end = start;
             var count = end - start;
             var list = new List<DateTime>();
             for (var i = 0; i <= count.Days; i++)
-            {
                 list.Add(start.AddDays(i));
-            }
             return list;
         }
     }

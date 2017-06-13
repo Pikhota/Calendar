@@ -5,3 +5,10 @@ D:\Projects\TestCalendarFunction\bin\Debug\Calendar.dll
 D:\Projects\TestCalendarFunction\obj\Debug\TestCalendarFunction.csprojResolveAssemblyReference.cache
 D:\Projects\TestCalendarFunction\obj\Debug\TestCalendarFunction.exe
 D:\Projects\TestCalendarFunction\obj\Debug\TestCalendarFunction.pdb
+D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\TestCalendarFunction.exe.config
+D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\TestCalendarFunction.exe
+D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\TestCalendarFunction.pdb
+D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\Calendar.dll
+D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.csprojResolveAssemblyReference.cache
+D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.exe
+D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.pdb
