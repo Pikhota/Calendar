@@ -12,3 +12,4 @@ D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\Calendar.dll
 D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.csprojResolveAssemblyReference.cache
 D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.exe
 D:\Gitprojects\Calendar\TestCalendarFunction\obj\Debug\TestCalendarFunction.pdb
+D:\Gitprojects\Calendar\TestCalendarFunction\bin\Debug\Calendar.pdb

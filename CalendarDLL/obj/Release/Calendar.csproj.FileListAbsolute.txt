@@ -2,3 +2,8 @@ D:\Projects\Calendar\bin\Release\Calendar.dll
 D:\Projects\Calendar\bin\Release\Calendar.pdb
 D:\Projects\Calendar\obj\Release\Calendar.dll
 D:\Projects\Calendar\obj\Release\Calendar.pdb
+D:\Gitprojects\Calendar\CalendarDLL\bin\Release\Calendar.dll
+D:\Gitprojects\Calendar\CalendarDLL\bin\Release\Calendar.pdb
+D:\Gitprojects\Calendar\CalendarDLL\obj\Release\Calendar.csprojResolveAssemblyReference.cache
+D:\Gitprojects\Calendar\CalendarDLL\obj\Release\Calendar.dll
+D:\Gitprojects\Calendar\CalendarDLL\obj\Release\Calendar.pdb
