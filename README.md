@@ -1,5 +1,5 @@
 # Calendar
-#Task
+Task.
 To the function input you receive a:
 1.Start date, 
 2. duration in days (whole number) and 
